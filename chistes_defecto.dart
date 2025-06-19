@@ -1,3 +1,4 @@
+//..lib/data/chistes_defecto.dart
 final Map<String, List<String>> chistesPorDefecto = {
   'Animales': [
     '¿Qué hace una abeja en el gimnasio?\n¡Zum-ba!',
