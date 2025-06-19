@@ -1,0 +1,50 @@
+name: humorhub
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: ^3.8.1
+dependencies:
+  flutter:
+    sdk: flutter
+  particles_flutter: ^0.1.4
+  audioplayers: ^5.2.1
+  sqflite: ^2.3.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/logo.jpeg
+    - assets/images/paisaje.jpg
+    - assets/sounds/sonido_chiste.mp3
+    - assets/gifts/1.gif
+    - assets/gifts/2.gif
+    - assets/gifts/3.gif
+    - assets/gifts/4.gif
+    - assets/gifts/5.gif
+    - assets/gifts/6.gif
+    - assets/gifts/7.gif
+    - assets/gifts/8.gif
+    - assets/gifts/9.gif
+    - assets/gifts/10.gif
+    - assets/gifts/11.gif
+    - assets/gifts/12.gif
+    - assets/gifts/13.gif
+    - assets/gifts/14.gif
+    - assets/gifts/15.gif
+    - assets/gifts/16.gif
+    - assets/gifts/17.gif
+    - assets/gifts/18.gif
+    - assets/gifts/19.gif
+    - assets/gifts/20.gif
+    - assets/gifts/21.gif
+    - assets/gifts/22.gif
+    - assets/gifts/23.gif
+    - assets/gifts/24.gif
+    - assets/gifts/25.gif
