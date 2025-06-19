@@ -1,3 +1,4 @@
+//..lib/model/chiste_model.dart
 class Chiste {
   final int? id;
   final String texto;
