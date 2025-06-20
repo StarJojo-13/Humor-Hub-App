@@ -1,3 +1,4 @@
+//..lib/widgets/creditos_dialog.dart
 import 'package:flutter/material.dart';
 
 void mostrarCreditos(BuildContext context) {
